@@ -8,7 +8,7 @@ AdaptiveFiller is a Windows desktop application designed to assist with competit
 
 ## Download
 
-**[Download the Latest Version](https://github.com/ardarman09-design/AdaptiveFiller-Releases/releases/latest)**
+**[Download the Latest Version](https://github.com/nirvana-soft/AdaptiveFiller-Releases/releases/latest)**
 
 Download the latest Windows ZIP package from the official GitHub Releases page.
 
@@ -38,7 +38,7 @@ The user guide includes application structure, component diagrams, competition s
 
 For detailed operating instructions, refer to the [User Guide](/documentation.pdf).
 
-For available versions and release notes, visit the [Releases page](https://github.com/ardarman09-design/AdaptiveFiller-Releases/releases).
+For available versions and release notes, visit the [Releases page](https://github.com/nirvana-soft/AdaptiveFiller-Releases/releases).
 
 ---
 
